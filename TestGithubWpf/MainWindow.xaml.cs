@@ -19,7 +19,8 @@ namespace TestGithubWpf
         public MainWindow()
         {
             InitializeComponent();
-            MessageBox.Show("bonjour...vous");
+
+            Console.WriteLine("Hello tous");
         }
     }
 }

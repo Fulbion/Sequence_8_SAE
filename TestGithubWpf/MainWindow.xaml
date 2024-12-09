@@ -6,6 +6,8 @@
         xmlns:local="clr-namespace:TestGithubWpf"
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Label Content="dragaune slère" FontFamily="Comic Sans MS" FontSize="72" HorizontalAlignment="Center" VerticalAlignment="Center"/>
     <Grid Margin="15">
         <Grid.ColumnDefinitions>
             <ColumnDefinition Width="Auto" />
