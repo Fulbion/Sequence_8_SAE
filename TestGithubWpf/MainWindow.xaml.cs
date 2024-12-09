@@ -20,7 +20,7 @@ namespace TestGithubWpf
         {
             InitializeComponent();
 
-            Console.WriteLine("Hello");
+            Console.WriteLine("Hello tous");
         }
     }
 }
